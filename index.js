@@ -1,3 +1,3 @@
 console.log("Salut");
 
-const tom = "Tom";
+let i = 0;

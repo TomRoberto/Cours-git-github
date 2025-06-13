@@ -1,1 +1,3 @@
-console.log("Hello");
+console.log("Salut");
+
+const tom = "Tom";
